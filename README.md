@@ -4,3 +4,5 @@ Assembly Language Program for the Course Introduction to Assembly and Computer A
 In this I have use KIPIRVINE Library for the Assembly Language.
 
 All the .asm files compatible with the Visual Studio 2010.
+
+Just open the project and copy these code files.
